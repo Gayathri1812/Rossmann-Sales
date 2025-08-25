@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+rossmann-env/
+project_rossmann/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts (DO NOT COMMIT)
+data/
+models/
+reports/figures/
+
+# Editor/OS
+.vscode/
+.DS_Store
