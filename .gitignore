@@ -18,3 +18,11 @@ reports/figures/
 # Editor/OS
 .vscode/
 .DS_Store
+train.csv
+test.csv
+store.csv
+sample_submission.csv
+*.zip
+data/
+data/
+rossmann-env/
